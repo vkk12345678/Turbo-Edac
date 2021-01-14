@@ -1,0 +1,22 @@
+C:\Serial Test\Serial Test\obj\Debug\ResolveAssemblyReference.cache
+C:\Serial Test\Serial Test\obj\Debug\Serial_Test.Form1.resources
+C:\Serial Test\Serial Test\obj\Debug\Serial_Test.Properties.Resources.resources
+C:\Serial Test\Serial Test\obj\Debug\Serial Test.csproj.GenerateResource.Cache
+C:\Serial Test\Serial Test\bin\Debug\Serial Test.exe
+C:\Serial Test\Serial Test\bin\Debug\Serial Test.pdb
+C:\Serial Test\Serial Test\obj\Debug\Serial Test.exe
+C:\Serial Test\Serial Test\obj\Debug\Serial Test.pdb
+E:\Serial Test\Serial Test\obj\Debug\Serial Test.exe
+E:\Serial Test\Serial Test\obj\Debug\Serial Test.pdb
+E:\Serial Test\Serial Test\bin\Debug\Serial Test.exe
+E:\Serial Test\Serial Test\bin\Debug\Serial Test.pdb
+E:\Serial Test\Serial Test\obj\Debug\ResolveAssemblyReference.cache
+E:\Serial Test\Serial Test\obj\Debug\Serial_Test.Form1.resources
+E:\Serial Test\Serial Test\obj\Debug\Serial_Test.Properties.Resources.resources
+E:\Serial Test\Serial Test\obj\Debug\Serial Test.csproj.GenerateResource.Cache
+M:\SOFTWARES\Serial Test\Serial Test\obj\Debug\Serial Test.exe
+M:\SOFTWARES\Serial Test\Serial Test\obj\Debug\Serial Test.pdb
+F:\SOFTWARES\Serial Test\Serial Test\obj\Debug\Serial Test.exe
+F:\SOFTWARES\Serial Test\Serial Test\obj\Debug\Serial Test.pdb
+C:\Turbo EDAC CODE\Turbo_EDAC_Code\Serial Test\Serial Test\obj\Debug\Serial Test.exe
+C:\Turbo EDAC CODE\Turbo_EDAC_Code\Serial Test\Serial Test\obj\Debug\Serial Test.pdb

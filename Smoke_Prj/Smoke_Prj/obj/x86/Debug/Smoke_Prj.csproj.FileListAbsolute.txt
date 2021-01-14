@@ -1,0 +1,22 @@
+c:\Smoke_Prj\Smoke_Prj\bin\Debug\Smoke_Prj.exe
+c:\Smoke_Prj\Smoke_Prj\bin\Debug\Smoke_Prj.pdb
+c:\Smoke_Prj\Smoke_Prj\obj\x86\Debug\Smoke_Prj.Form1.resources
+c:\Smoke_Prj\Smoke_Prj\obj\x86\Debug\Smoke_Prj.Properties.Resources.resources
+c:\Smoke_Prj\Smoke_Prj\obj\x86\Debug\Smoke_Prj.csproj.GenerateResource.Cache
+c:\Smoke_Prj\Smoke_Prj\obj\x86\Debug\Smoke_Prj.exe
+c:\Smoke_Prj\Smoke_Prj\obj\x86\Debug\Smoke_Prj.pdb
+C:\Turbo EDAC CODE\Turbo_EDAC_Code\Smoke_Prj\Smoke_Prj\obj\x86\Debug\Smoke_Prj.exe
+C:\Turbo EDAC CODE\Turbo_EDAC_Code\Smoke_Prj\Smoke_Prj\obj\x86\Debug\Smoke_Prj.pdb
+C:\Turbo EDAC CODE\Turbo_EDAC_Code\Smoke_Prj\Smoke_Prj\bin\Debug\Smoke_Prj.exe
+C:\Turbo EDAC CODE\Turbo_EDAC_Code\Smoke_Prj\Smoke_Prj\bin\Debug\Smoke_Prj.pdb
+C:\Turbo EDAC CODE\Turbo_EDAC_Code\Smoke_Prj\Smoke_Prj\obj\x86\Debug\Smoke_Prj.Form1.resources
+C:\Turbo EDAC CODE\Turbo_EDAC_Code\Smoke_Prj\Smoke_Prj\obj\x86\Debug\Smoke_Prj.Properties.Resources.resources
+C:\Turbo EDAC CODE\Turbo_EDAC_Code\Smoke_Prj\Smoke_Prj\obj\x86\Debug\Smoke_Prj.csproj.GenerateResource.Cache
+C:\Turbo_EDAC_Code\Smoke_Prj\Smoke_Prj\obj\x86\Debug\Smoke_Prj.exe
+C:\Turbo_EDAC_Code\Smoke_Prj\Smoke_Prj\obj\x86\Debug\Smoke_Prj.pdb
+C:\Turbo_EDAC_Code\Smoke_Prj\Smoke_Prj\bin\Debug\Smoke_Prj.exe
+C:\Turbo_EDAC_Code\Smoke_Prj\Smoke_Prj\bin\Debug\Smoke_Prj.pdb
+C:\Turbo_EDAC_Code\Smoke_Prj\Smoke_Prj\obj\x86\Debug\Smoke_Prj.csprojResolveAssemblyReference.cache
+C:\Turbo_EDAC_Code\Smoke_Prj\Smoke_Prj\obj\x86\Debug\Smoke_Prj.Form1.resources
+C:\Turbo_EDAC_Code\Smoke_Prj\Smoke_Prj\obj\x86\Debug\Smoke_Prj.Properties.Resources.resources
+C:\Turbo_EDAC_Code\Smoke_Prj\Smoke_Prj\obj\x86\Debug\Smoke_Prj.csproj.GenerateResource.Cache

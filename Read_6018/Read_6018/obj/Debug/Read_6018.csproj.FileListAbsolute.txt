@@ -1,0 +1,66 @@
+C:\Read_6018\Read_6018\bin\Debug\Read_6018.exe
+C:\Read_6018\Read_6018\bin\Debug\Read_6018.pdb
+C:\Read_6018\Read_6018\obj\Debug\Read_6018.Form1.resources
+C:\Read_6018\Read_6018\obj\Debug\Read_6018.Properties.Resources.resources
+C:\Read_6018\Read_6018\obj\Debug\Read_6018.csproj.GenerateResource.Cache
+C:\Read_6018\Read_6018\obj\Debug\Read_6018.exe
+C:\Read_6018\Read_6018\obj\Debug\Read_6018.pdb
+I:\Read_6018\Read_6018\obj\Debug\Read_6018.exe
+I:\Read_6018\Read_6018\obj\Debug\Read_6018.pdb
+I:\Read_6018\Read_6018\bin\Debug\Read_6018.exe
+I:\Read_6018\Read_6018\bin\Debug\Read_6018.pdb
+I:\Read_6018\Read_6018\obj\Debug\ResolveAssemblyReference.cache
+I:\Read_6018\Read_6018\obj\Debug\Read_6018.Form1.resources
+I:\Read_6018\Read_6018\obj\Debug\Read_6018.Properties.Resources.resources
+I:\Read_6018\Read_6018\obj\Debug\Read_6018.csproj.GenerateResource.Cache
+C:\Read_6018\Read_6018\obj\Debug\Read_6018.csproj.CoreCompileInputs.cache
+C:\Read_6018\Read_6018\obj\Debug\Read_6018.csproj.CopyComplete
+C:\Read_6018\Read_6018\bin\Debug\Advantech.Adam.dll
+C:\Read_6018\Read_6018\bin\Debug\Advantech.Common.dll
+C:\Read_6018\Read_6018\bin\Debug\Advantech.Protocol.dll
+C:\Read_6018\Read_6018\bin\Debug\Advantech.Adam.xml
+C:\Read_6018\Read_6018\bin\Debug\Advantech.Common.xml
+C:\Read_6018\Read_6018\bin\Debug\Advantech.Protocol.xml
+C:\Read_6018\Read_6018\obj\Debug\Read_6018.csprojResolveAssemblyReference.cache
+C:\Turbo_EDAC\Read_6018\Read_6018\obj\Debug\Read_6018.exe
+C:\Turbo_EDAC\Read_6018\Read_6018\obj\Debug\Read_6018.pdb
+C:\Turbo_EDAC_code\Read_6018\Read_6018\obj\Debug\Read_6018.exe
+C:\Turbo_EDAC_code\Read_6018\Read_6018\obj\Debug\Read_6018.pdb
+C:\Turbo_EDAC_code\Read_6018\Read_6018\bin\Debug\Read_6018.exe
+C:\Turbo_EDAC_code\Read_6018\Read_6018\bin\Debug\Read_6018.pdb
+C:\Turbo_EDAC_code\Read_6018\Read_6018\bin\Debug\Advantech.Adam.dll
+C:\Turbo_EDAC_code\Read_6018\Read_6018\bin\Debug\Advantech.Common.dll
+C:\Turbo_EDAC_code\Read_6018\Read_6018\bin\Debug\Advantech.Protocol.dll
+C:\Turbo_EDAC_code\Read_6018\Read_6018\bin\Debug\Advantech.Adam.xml
+C:\Turbo_EDAC_code\Read_6018\Read_6018\bin\Debug\Advantech.Common.xml
+C:\Turbo_EDAC_code\Read_6018\Read_6018\bin\Debug\Advantech.Protocol.xml
+C:\Turbo_EDAC_code\Read_6018\Read_6018\obj\Debug\Read_6018.csprojResolveAssemblyReference.cache
+C:\Turbo_EDAC_code\Read_6018\Read_6018\obj\Debug\Read_6018.Form1.resources
+C:\Turbo_EDAC_code\Read_6018\Read_6018\obj\Debug\Read_6018.Properties.Resources.resources
+C:\Turbo_EDAC_code\Read_6018\Read_6018\obj\Debug\Read_6018.csproj.GenerateResource.Cache
+C:\Turbo_EDAC_code - Copy\Read_6018\Read_6018\obj\Debug\Read_6018.exe
+C:\Turbo_EDAC_code - Copy\Read_6018\Read_6018\obj\Debug\Read_6018.pdb
+C:\Turbo_EDAC_code - Copy\Read_6018\Read_6018\bin\Debug\Read_6018.exe
+C:\Turbo_EDAC_code - Copy\Read_6018\Read_6018\bin\Debug\Read_6018.pdb
+C:\Turbo_EDAC_code - Copy\Read_6018\Read_6018\bin\Debug\Advantech.Adam.dll
+C:\Turbo_EDAC_code - Copy\Read_6018\Read_6018\bin\Debug\Advantech.Common.dll
+C:\Turbo_EDAC_code - Copy\Read_6018\Read_6018\bin\Debug\Advantech.Protocol.dll
+C:\Turbo_EDAC_code - Copy\Read_6018\Read_6018\bin\Debug\Advantech.Adam.xml
+C:\Turbo_EDAC_code - Copy\Read_6018\Read_6018\bin\Debug\Advantech.Common.xml
+C:\Turbo_EDAC_code - Copy\Read_6018\Read_6018\bin\Debug\Advantech.Protocol.xml
+C:\Turbo_EDAC_code - Copy\Read_6018\Read_6018\obj\Debug\Read_6018.csprojResolveAssemblyReference.cache
+C:\Turbo_EDAC_code - Copy\Read_6018\Read_6018\obj\Debug\Read_6018.Form1.resources
+C:\Turbo_EDAC_code - Copy\Read_6018\Read_6018\obj\Debug\Read_6018.Properties.Resources.resources
+C:\Turbo_EDAC_code - Copy\Read_6018\Read_6018\obj\Debug\Read_6018.csproj.GenerateResource.Cache
+D:\Turbo_EDAC_Code\Read_6018\Read_6018\obj\Debug\Read_6018.exe
+D:\Turbo_EDAC_Code\Read_6018\Read_6018\obj\Debug\Read_6018.pdb
+D:\Turbo_EDAC_Code\Read_6018\Read_6018\bin\Debug\Read_6018.exe
+D:\Turbo_EDAC_Code\Read_6018\Read_6018\bin\Debug\Read_6018.pdb
+D:\Turbo_EDAC_Code\Read_6018\Read_6018\bin\Debug\Advantech.Protocol.dll
+D:\Turbo_EDAC_Code\Read_6018\Read_6018\bin\Debug\Advantech.Adam.xml
+D:\Turbo_EDAC_Code\Read_6018\Read_6018\bin\Debug\Advantech.Common.xml
+D:\Turbo_EDAC_Code\Read_6018\Read_6018\bin\Debug\Advantech.Protocol.xml
+D:\Turbo_EDAC_Code\Read_6018\Read_6018\obj\Debug\Read_6018.csprojResolveAssemblyReference.cache
+D:\Turbo_EDAC_Code\Read_6018\Read_6018\obj\Debug\Read_6018.Form1.resources
+D:\Turbo_EDAC_Code\Read_6018\Read_6018\obj\Debug\Read_6018.Properties.Resources.resources
+D:\Turbo_EDAC_Code\Read_6018\Read_6018\obj\Debug\Read_6018.csproj.GenerateResource.Cache

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Serial Test">
+</Property><Property Name="Solution File" Value="C:\Turbo EDAC CODE\Turbo_EDAC_Code\Serial Test\Serial Test.sln">
+</Property><Property Name="User Options File" Value="C:\Turbo EDAC CODE\Turbo_EDAC_Code\Serial Test\Serial Test.suo">
+</Property><Property Name="Date" Value="13 March 2019">
+</Property><Property Name="Time" Value="12:38">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Serial Test.sln" Description="File successfully backed up as C:\Turbo EDAC CODE\Turbo_EDAC_Code\Serial Test\Backup\Serial Test.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Serial Test.suo" Description="File successfully backed up as C:\Turbo EDAC CODE\Turbo_EDAC_Code\Serial Test\Backup\Serial Test.suo">
+</Event><Event ErrorLevel="0" Project="Serial Test" Source="Serial Test\Serial Test.csproj" Description="Project file successfully backed up as C:\Turbo EDAC CODE\Turbo_EDAC_Code\Serial Test\Backup\Serial Test\Serial Test.csproj">
+</Event><Event ErrorLevel="0" Project="Serial Test" Source="Serial Test\Form1.cs" Description="File successfully backed up as C:\Turbo EDAC CODE\Turbo_EDAC_Code\Serial Test\Backup\Serial Test\Form1.cs">
+</Event><Event ErrorLevel="0" Project="Serial Test" Source="Serial Test\Form1.Designer.cs" Description="File successfully backed up as C:\Turbo EDAC CODE\Turbo_EDAC_Code\Serial Test\Backup\Serial Test\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Serial Test" Source="Serial Test\Program.cs" Description="File successfully backed up as C:\Turbo EDAC CODE\Turbo_EDAC_Code\Serial Test\Backup\Serial Test\Program.cs">
+</Event><Event ErrorLevel="0" Project="Serial Test" Source="Serial Test\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Turbo EDAC CODE\Turbo_EDAC_Code\Serial Test\Backup\Serial Test\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Serial Test" Source="Serial Test\Properties\Resources.Designer.cs" Description="File successfully backed up as C:\Turbo EDAC CODE\Turbo_EDAC_Code\Serial Test\Backup\Serial Test\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Serial Test" Source="Serial Test\Properties\Settings.Designer.cs" Description="File successfully backed up as C:\Turbo EDAC CODE\Turbo_EDAC_Code\Serial Test\Backup\Serial Test\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Serial Test" Source="Serial Test\Properties\Settings.settings" Description="File successfully backed up as C:\Turbo EDAC CODE\Turbo_EDAC_Code\Serial Test\Backup\Serial Test\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Serial Test" Source="Serial Test\Form1.resx" Description="File successfully backed up as C:\Turbo EDAC CODE\Turbo_EDAC_Code\Serial Test\Backup\Serial Test\Form1.resx">
+</Event><Event ErrorLevel="0" Project="Serial Test" Source="Serial Test\Properties\Resources.resx" Description="File successfully backed up as C:\Turbo EDAC CODE\Turbo_EDAC_Code\Serial Test\Backup\Serial Test\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Serial Test" Source="Serial Test\Serial Test.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Serial Test" Source="Serial Test\Serial Test.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Serial Test.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Serial Test.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Serial Test" Source="Serial Test\Serial Test.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
