@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rd_Gantner", "Rd_Gantner.csproj", "{6B535258-3252-4BE4-8BF2-560680D1588E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B535258-3252-4BE4-8BF2-560680D1588E}.Debug|x86.ActiveCfg = Debug|x86
+		{6B535258-3252-4BE4-8BF2-560680D1588E}.Debug|x86.Build.0 = Debug|x86
+		{6B535258-3252-4BE4-8BF2-560680D1588E}.Release|x86.ActiveCfg = Release|x86
+		{6B535258-3252-4BE4-8BF2-560680D1588E}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
