@@ -91,3 +91,6 @@ D:\Turbo_EDAC_Code_OLD\Main_EDAC\Main_EDAC\bin\Debug\Main_EDAC.exe
 D:\Turbo_EDAC_Code_OLD\Main_EDAC\Main_EDAC\bin\Debug\Main_EDAC.pdb
 D:\Turbo_EDAC_Code_OLD\Main_EDAC\Main_EDAC\obj\Debug\Logger.Main.csproj.Main_EDAC.exe.config
 D:\Turbo_EDAC_Code_OLD\Main_EDAC\Main_EDAC\obj\Debug\Logger.Main.csprojResolveAssemblyReference.cache
+E:\New folder\Turbo-Edac\Main_EDAC\Main_EDAC\bin\Debug\Main_EDAC.exe.config
+E:\New folder\Turbo-Edac\Main_EDAC\Main_EDAC\obj\Debug\Main_EDAC.exe
+E:\New folder\Turbo-Edac\Main_EDAC\Main_EDAC\obj\Debug\Main_EDAC.pdb
